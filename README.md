@@ -16,6 +16,7 @@ First you need to configure and implement your purchase table. Once that is done
 #### Configurable Purchase Table
 
 You can configure your own table so your game is unique:
+
 ![Purchase Table](./assets/imgs/config.png)
 
 #### Templates
@@ -54,4 +55,5 @@ The GM is always in complete control and can remove purchases and remake the log
 ### FAQ
 
 [Release Notes](https://raw.githubusercontent.com/elizeuangelo/fvtt-module-hero-points-faq/master/releases.md)
+
 [Issues](https://github.com/elizeuangelo/fvtt-module-hero-points-faq/issues)
