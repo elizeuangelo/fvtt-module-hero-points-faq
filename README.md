@@ -1,6 +1,6 @@
 # Foundry VTT Module: Hero Points ➕
 
-[![The Forge / Bazaar](https://img.shields.io/badge/The%20Forge-Bazaar-lightgray?labelColor=darkgreen)](https://forge-vtt.com/bazaar/package/hero-points) ![Issues](https://img.shields.io/github/issues/elizeuangelo/fvtt-module-hero-points-faq)
+[![The Forge / Bazaar](https://img.shields.io/badge/Bazaar-The%20Forge-darkgreen)](https://forge-vtt.com/bazaar/package/hero-points) ![Issues](https://img.shields.io/github/issues/elizeuangelo/fvtt-module-hero-points-faq)
 
 Create your own character progression subsystem, or implement your own inspiration-like system, compatible with any system in Foundry VTT.
 
