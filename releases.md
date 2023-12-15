@@ -1,5 +1,13 @@
 # Patch Notes
 
+## v1.1.2
+
+-  New setting: Self Reward. Allow players to reward themselves and reduce the burden on the gamemaster.
+
+## v1.1.1
+
+-  New application to reward players together
+
 ## v1.1.0
 
 -   Adds language support
